@@ -62,7 +62,7 @@ echo -e $BOSLUK
 echo "⌛ N Σ O N YÜKLƏYİRƏM⌛"
 echo "⌛ I DOWNLOAD THE N Σ O N ⌛"
 echo -e $BOSLUK
-git clone -b neon_installer https://github.com/TheOksigen/neon_installer
+git clone https://github.com/TheOksigen/neon_installer
 clear
 echo -e $N
 echo -e $BOSLUK
