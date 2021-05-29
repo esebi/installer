@@ -68,7 +68,7 @@ echo -e $N
 echo -e $BOSLUK
 echo -e $MESAJ
 echo -e $BOSLUK
-echo "⌛ INSTALLING REQUIREMENTS..."
+echo "⌛ INSTALLING N Σ O N REQUIREMENTS..."
 echo -e $BOSLUK
 cd neon_installer
 pip install wheel
