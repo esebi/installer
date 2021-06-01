@@ -22,7 +22,6 @@ MESAJ+="\n🧩 Plugin Kanalı; @NeonPlugin"
 MESAJ+="\n "
 MESAJ+="\n❗Yüklənmə bitməyənə qədər bu ekranı tərk etməyin❗"
 HELP="\n❗❗ %50, %70 və %75'də "Y" Yazıb enter basın  ❗❗"
-HELP+="\n "
 BOSLUK="\n "
 echo -e $N
 echo -e $HELP
