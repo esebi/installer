@@ -62,7 +62,7 @@ echo -e $BOSLUK
 echo "⌛ N Σ O N YÜKLƏYİRƏM⌛"
 echo "⌛ I DOWNLOAD THE SIRI ⌛"
 echo -e $BOSLUK
-git clone -b siri_installer https://github.com/TheOksigen/neon_userbot
+git clone -b neon_installer https://github.com/TheOksigen/neon_userbot
 clear
 echo -e $N
 echo -e $BOSLUK
