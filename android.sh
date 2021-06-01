@@ -17,7 +17,7 @@ N+="\n✨NEON USERBOT INSTALLER✨"
 MESAJ="\n📱NEON UserBot Ucun android kurulumu📱"
 MESAJ+="\n "
 MESAJ+="\n📣 Rəsmi Kanal; @NeonUserbot"
-MESAJ+="\n🆘 Syppart Qrupu; @NeonSupport"
+MESAJ+="\n🆘 Syppart Qrupu; @NeonSup"
 MESAJ+="\n🧩 Plugin Kanalı; @NeonPlugin"
 MESAJ+="\n "
 MESAJ+="\n❗Yüklənmə bitməyənə qədər bu ekranı tərk etməyin❗"
@@ -59,7 +59,7 @@ echo -e $N
 echo -e $MESAJ
 echo -e $BOSLUK
 echo "⌛ N Σ O N YÜKLƏYİRƏM⌛"
-echo "⌛ I DOWNLOAD THE SIRI ⌛"
+echo "⌛ I DOWNLOAD THE N Σ O N ⌛"
 echo -e $BOSLUK
 git clone https://github.com/TheOksigen/neon_userbot
 clear
@@ -73,3 +73,4 @@ cd neon_installer
 pip install wheel
 pip install -r requirements.txt
 python -m neon_installer
+
