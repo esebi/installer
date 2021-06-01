@@ -22,7 +22,7 @@ MESAJ+="\n🆘 YARDIM GRUBU; @NeonSup"
 MESAJ+="\n🧩 PLUGIN PAYLAŞIM; @NeonPlugin
 MESAJ+="\n "
 MESAJ+="\n❗Installer bitməyənı qədər ekranı tərk etməyin❗"
-HELP="\n❗❗ %50, %70 VE %75'te dayananda Y Yazıp Enter basın ❗❗"
+#HELP="\n❗❗ %50, %70 VE %75'te dayananda Y Yazıp Enter basın ❗❗"
 HELP+="\n "
 BOSLUK="\n "
 echo -e $N
