@@ -1,3 +1,4 @@
+
 #                                  _ _   _ _  _   _
 #                           | \ | |__   / _ \| \ | |
 #                           |  \| |  _|| | | |  \| |
@@ -7,8 +8,7 @@
 
 
 
-clear
-N=" _   _ _ _   _ _  _   _ "
+N="    _   _ _ _   _ _  _   _ "
 N+="\n| \ | |__   / _ \| \ | |"
 N+="\n|  \| |  _|| | | |  \| |"
 N+="\n| |\  | |__| |_| | |\  |"
@@ -18,11 +18,12 @@ N+="\n✨NEON USERBOT INSTALLER✨"
 MESAJ="\n📱NEON UserBot Ucun android kurulumu📱"
 MESAJ+="\n "
 MESAJ+="\n📣 Rəsmi Kanal; @NeonUserbot"
-MESAJ+="\n🆘 Syppart Qrupu; @NeonSup"
+MESAJ+="\n🆘 Syppart Qrupu; @NeonSupport"
 MESAJ+="\n🧩 Plugin Kanalı; @NeonPlugin"
 MESAJ+="\n "
 MESAJ+="\n❗Yüklənmə bitməyənə qədər bu ekranı tərk etməyin❗"
 HELP="\n❗❗ %50, %70 və %75'də "Y" Yazıb enter basın  ❗❗"
+HELP+="\n "
 BOSLUK="\n "
 echo -e $N
 echo -e $HELP
@@ -60,9 +61,9 @@ echo -e $N
 echo -e $MESAJ
 echo -e $BOSLUK
 echo "⌛ N Σ O N YÜKLƏYİRƏM⌛"
-echo "⌛ I DOWNLOAD THE N Σ O N ⌛"
+echo "⌛ I DOWNLOAD THE SIRI ⌛"
 echo -e $BOSLUK
-git clone https://github.com/TheOksigen/neon_installer
+git clone -b siri_installer https://github.com/TheOksigen/neon_userbot
 clear
 echo -e $N
 echo -e $BOSLUK
@@ -70,10 +71,7 @@ echo -e $MESAJ
 echo -e $BOSLUK
 echo "⌛ INSTALLING REQUIREMENTS..."
 echo -e $BOSLUK
-cd neon_installer
+cd neoninstaller
 pip install wheel
 pip install -r requirements.txt
 python -m neon_installer
-
-
-
