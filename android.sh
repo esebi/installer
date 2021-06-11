@@ -1,4 +1,3 @@
-
 MESAJ="NeonUserBot Avtomatik Qurulumuna Xoş Gəldiniz!"
 MESAJ+="\nTG: @NeonUserBot"
 pkg update -y
