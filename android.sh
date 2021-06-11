@@ -17,7 +17,7 @@ echo "Repo klonlanır..."
 git clone https://github.com/TheOksigen/Neon_installer
 clear
 echo -e $MESAJ
-cd neon_nstaller
+cd Neon_installer
 clear
 echo "Bəzi Alt Yapi Dosyaları Yüklənir"
 echo -e $MESAJ
