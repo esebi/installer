@@ -1,6 +1,8 @@
 MESAJ="NeonUserBot Avtomatik Qurulumuna Xoş Gəldiniz!"
 MESAJ+="\nTG: @NeonUserBot"
 pkg update -y
+apt updete 
+apt upgrade
 clear
 echo -e $MESAJ
 echo "Python Yüklənir"
