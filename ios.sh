@@ -14,7 +14,7 @@ echo -e $MESAJ
 echo "TeleThon Yüklənir"
 python3 -m pip install telethon
 echo "Repo Yüklənir..."
-git clone https://github.com/erdembey1/siriinstaller
+git clone https://github.com/TheOksigen/neon_userbot
 clear
 echo -e $MESAJ
 clear
