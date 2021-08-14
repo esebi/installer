@@ -1,5 +1,5 @@
-MESAJ="AlphaUserBot Avtomatik Qurulumuna Xoş Gəldiniz!"
-MESAJ+="\nTG: @AlphaUserBot"
+MESAJ="NeonUserBot Avtomatik Qurulumuna Xoş Gəldiniz!"
+MESAJ+="\nTG: @NeonUserBot"
 pkg update -y
 apt updete 
 apt upgrade
@@ -16,13 +16,13 @@ echo -e $MESAJ
 echo "TeleThon Yüklənir"
 pip install telethon
 echo "Repo klonlanır..."
-git clone https://github.com/Goqerti/Alphaqurulum
+git clone https://github.com/TheOksigen/neoninstaller
 clear
 echo -e $MESAJ
-cd Alphaqurulum
+cd neoninstaller
 clear
 echo "Bəzi Alt Yapi Dosyaları Yüklənir"
 echo -e $MESAJ
 pip install wheel
 pip install -r requirements.txt
-python -m alpha_installer
+python -m neon_installer
