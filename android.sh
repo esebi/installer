@@ -1,7 +1,9 @@
-NEON="ㅤㅤ| \ | | ____/ _ \| \ | |"
-NEON+="\n|  \| |  _|| | | |  \| |"
-NEON+="\n| |\  | |__| |_| | |\  |"
-NEON+="\n|_| \_|_____\___/|_| \_|"
+NEON="███╗   ██╗███████╗ ██████╗ ███╗   ██╗"
+NEON+="\n████╗  ██║██╔════╝██╔═══██╗████╗  ██║"
+NEON+="\n██╔██╗ ██║█████╗  ██║   ██║██╔██╗ ██║"
+NEON+="\n██║╚██╗██║██╔══╝  ██║   ██║██║╚██╗██║"
+NEON+="\n██║ ╚████║███████╗╚██████╔╝██║ ╚████║"
+NEON+="\n╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝"
 NEON+="\n✨N Σ O N⚡️𝐔𝐬𝐞𝐫𝐁𝐨𝐭🇦🇿 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒆𝒓✨"
 MESAJ="\nN Σ O N⚡️𝐔𝐬𝐞𝐫𝐁𝐨𝐭🇦🇿UserBot Avtomatik Qurulumuna Xoş Gəldiniz!"
 MESAJ+="\nBizi secdiyiniz üçün cox sağolun"
@@ -19,7 +21,7 @@ clear
 echo -e $NEON
 echo -e $HELP
 echo -e $BOSLUK
-echo "⏳ TERMUX-a LAZIM OLAN REQUIREMENTS-lər yüklənir ⏳"
+echo "⏳ TERMUX-a LAZIM OLAN REQUIREMENTS YÜKLƏNİR ⏳"
 echo "⏳ I UPDATE YOUR REQUIREMENTS ⏳"
 echo -e $BOSLUK
 pkg update -y
